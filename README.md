@@ -15,12 +15,20 @@
 ####Tema: Git e GitHub
 
 3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.
-
+    <br/>
+    * Após adicionar e fazer o commit dos arquivos para serem monitorados pelo git o arquivo vai para o HEAD mas ainda será necessário enviá-lo para o repositório usando o git push origin master se for remoto ou git principal origin master se for local.
+    <br/>
 4. Descreva sobre os ganhos de se utilizar a funcionalidade da Branch do Git.
-
+    <br/>
+    * É importante para manter a estabilidade e isolamento do software que está sendo desenvolvido, fazendo uso da Master apenas quando o código estiver estável e com os bugs corrigidos.
+    <br/>
 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
-
+    <br/>
+   * No repositório que foi criado diretamente na nuvem automaticamente o Git já está monitorando os arquivos que serão criados. No repositório local o desenvolvedor tem que informar ao Git qual pasta ele devera monitorar.  
+    <br/>
 6. Qual a diferença entre Git e GitHub?
+    <br/>
+    * O Git é uma ferramenta de controle de versão de forma que o fica armazenado o histórico de mudanças podendo ser recuperada e comparada com versões mais recentes do sistema, já o GitHub é uma plataforma que é possível armazenar projetos, como uma rede social para desenvolvedores poderem se ajudar, é uma plataforma gratuita para projetos públicos ou para projetos privados que o desenvolvedor ou empresa tem de pagar.
 
 ####Tema: Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
 
