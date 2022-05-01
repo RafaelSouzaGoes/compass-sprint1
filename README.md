@@ -57,6 +57,14 @@
 ####Tema: Fundamentos HTTP
 
 11. O que é o protocolo HTTP? Qual a diferença entre HTTP e HTTPS?
-
+    <br/>
+    * 	1º - O HTTP (HyperText Transfer Protocol) é um conjunto de regras de        comunicação entre cliente-servidor para o envio e recebimento de dados pela web, é uma forma de comunicação baseada em texto e essa transmissão é de forma não segura, vulnerável a interceptação e alterações no caminho do cliente para o servidor.
+    <br/>
+    *   2º - O que diferencia HTTP (HyperText Transfer Protocol) de HTTPS (HyperText Transfer Protocol Secure) é a camada de segurança que foi adicionado chamada de SSL (Secure Sockets Layer) ou de TLS (Transfer Layer Security), dessa forma os textos que são transmitidos pelo usuário passam por camadas de segurança. Duas chaves são criadas uma publica e outra privada, a publica serve para o usuário se comunicar com o servidor já a segunda é privada e fica no servidor garantido que os textos serão lidos apenas no servidor.
+    <br/>
 12. Cite 4 métodos HTTP.
-
+    <br/>
+    1.  GET
+    2.  POST
+    3.  DELETE
+    4.  PUT
