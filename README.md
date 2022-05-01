@@ -33,12 +33,26 @@
 ####Tema: Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
 
 7. Quais as principais diferenças entre o modelo ágil e o waterfall (modelo em cascata)?
-
+     <br/>
+    * No método waterfall o desenvolvimento fica limitado a avançar apenas quando a etapa anterior for finalizada e caso fossem necessárias mudanças durante o desenvolvimento não seria possível fazer as mudanças apenas quando o projeto já estivesse em produção. Já o modelo ágil é entregue por partes a serem escolhidas as que darão mais valor rapidamente, trabalhando em ciclos com feedbacks e assim podendo adaptar o projeto da melhor forma.
+    <br/>
 8. Quais são as 3 perguntas que devem ser respondidas na Daily?
-
+    <br/>
+    1. 	O que fez desde a última Daily?
+    2. 	O que fara até a próxima Daily?
+    3. 	Teve algum impedimento?
+    <br/>
 9. Qual o intuito das seguintes cerimônias?
-
+    <br/>
+    * Daily – Reunião rápida para responder 3 perguntas, máximo de 15 minutos.
+    * Planning – Reunião limitada a 5% da Sprint, que reúne toda a equipe para entender todos os itens que serão feitos e planejar o que cabe no tempo da Sprint.
+    * Refinamento – É a preparação feita pelo P.O. quebrando as grandes funcionalidades em partes menores de forma que agregue valor para o cliente. O P.O. deve está com esse refinamento pronto na hora da Planning Meeting.
+    * Review – Reunião com o cliente e o time de desenvolvimento para mostrar o que foi feito na Sprint.
+    * Retrospectiva – É uma reunião apenas com o time Scrum para discutir o que foi feito de bom e o que pode melhorar nas próximas Sprints.
+    <br/>
 10. O que é a estimativa na metodologia ágil?
+    <br/>
+    * Tem o objetivo de atribuir um fator de custo ao Backlog, para medir a velocidade da equipe, tomar melhores decisões em torno da priorização de recursos.
 
 ####Tema: Fundamentos HTTP
 
